@@ -1,0 +1,9 @@
+table button{
+    border: 5px solid black;
+    border-radius: 70%;
+    width: 120px;
+    height: 120px;
+    background-color: grey;
+    display: inline-block;
+    margin: 5px;
+}
